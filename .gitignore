@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+*.env
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter and system files
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+
+# Project data files
+vehicle_sales_trends/sales_data.csv
